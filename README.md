@@ -14,7 +14,7 @@ My goal is to build the technical knowledge and investigative skills required fo
 |---|---|---|---|
 | 01 | [Phishing Analysis 2](./01-Phishing_Analysis/) | Email Security and Phishing Investigation | Completed |
 | 02 | [Log Analysis – Privilege Escalation](./02-Linux_Privilege_Escalation/) | Linux Security and Privilege Escalation | Completed |
-| 03 | D3FEND | MITRE Defensive Security Framework | Completed — Report Pending |
+| 03 | [D3FEND](./03-MITRE-D3FEND/) | MITRE Defensive Security Framework | Completed |
 
 ## Technical Skills Practiced
 
